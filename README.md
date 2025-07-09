@@ -22,7 +22,7 @@
 
 ⚙️ **Tech Stack**
 
-![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,git,github,linux)
+![Languages](https://skillicons.dev/icons?i=python,java,git,github,linux)
 
 ---
 
