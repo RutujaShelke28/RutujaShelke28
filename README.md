@@ -12,11 +12,11 @@
 🌟 **About Me**
 
 - 👩‍💻 I love transforming ideas into reality using code and solving real-world problems.
-- 🌱 Currently diving deep into: **React, Node.js & Cloud Technologies**
+- 🌱 Currently diving deep into: **Python & Data-Science Technologies**
 - 💡 Open to collaboration on innovative projects and contributing to open-source.
 - 🧠 Thinker by design, creator by code, and learner by heart.
 - 📫 Reach out to me: **shelkerutuja2005@gmail.com**  
-  [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
+
 
 ---
 
