@@ -12,7 +12,7 @@
 🌟 **About Me**
 
 - 👩‍💻 I love transforming ideas into reality using code and solving real-world problems.
-- 🌱 Currently diving deep into: **Python & Data-Science Technologies**
+- 🌱 Currently diving deep into: **Python , Data-Science Technologies and Oracle Database & PL/SQL**
 - 💡 Open to collaboration on innovative projects and contributing to open-source.
 - 🧠 Thinker by design, creator by code, and learner by heart.
 - 📫 Reach out to me: **shelkerutuja2005@gmail.com**  
@@ -22,13 +22,13 @@
 
 ⚙️ **Tech Stack**
 
-![Languages](https://skillicons.dev/icons?i=python,java,git,github,linux)
+![Languages](https://skillicons.dev/icons?i=python,java,git,github,linux,jupyterlab)
 
 ---
 
 🛠️ **Tools & Platforms**
 
-- 💻 VS Code | 🧰 Git & GitHub | 🐧 Linux | 🌐 Netlify | ☁️ Firebase
+- 💻 VS Code | 🧰 Git & GitHub | Jupyter lab | Anaconda | Miniconda |🐧 Linux | 🌐 Netlify | ☁️ Firebase
 - 🔧 Postman | 🧪 Vercel | 📚 MongoDB Atlas
 
 ---
@@ -48,7 +48,6 @@
 🎉 **Fun Facts About Me**
 
 - ✨ Creativity is my superpower — I love adding a creative touch to every project.
-- ☕ Coffee + Code = Perfect Combo
 - 🌍 Always up for meeting new minds and exchanging knowledge!
 
 ---
